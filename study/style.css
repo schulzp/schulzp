@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  margin: auto;
+  max-width: 1280px;
+
+  background-color: #888;
+}
+
+iframe {
+  width: 100%;
+  height: 100vh;
+  border: 0px;  
+}
