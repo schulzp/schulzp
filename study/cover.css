@@ -24,26 +24,25 @@ body {
 }
 
 main {
-  background-color: rgb(255, 255, 255, 0.5);
+  background-color: transparent;
 }
 
-main~div {
+footer>div {
  margin-bottom: -1em;
- height: 200px;
- background: transparent url('vive.png') no-repeat center 200%;
+ height: 371px;
+ margin-top: auto;
+ background: transparent url('vive.png') no-repeat center 120%;
  background-size: 150px;
  transition: background-position 0.5s ease
 }
 
-main~div:hover {
- background-position: center 100%;
+footer>div:hover {
+ background-position: center bottom;
 }
 
 .cover-container {
   max-width: 42em; 
-
 }
-
 
 /*
  * Header
