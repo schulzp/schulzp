@@ -29,10 +29,10 @@ main {
 
 footer>div {
  margin-bottom: -1em;
- height: 371px;
+ height: 200px;
  margin-top: auto;
- background: transparent url('vive.png') no-repeat center 120%;
- background-size: 150px;
+ background: transparent url('vive.png') no-repeat center 160%;
+ background-size: 150px 178px;
  transition: background-position 0.5s ease
 }
 
